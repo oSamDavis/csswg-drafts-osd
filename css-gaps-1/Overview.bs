@@ -2474,10 +2474,10 @@ Changes since the <a href="https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/">2
 			(<a href="https://github.com/w3c/csswg-drafts/issues/13648">Issue 13648</a>,
 			<a href="https://github.com/w3c/csswg-drafts/issues/13649">Issue 13649</a>)
 		<li>Updated with links to additional WPTs.
-		<li>Added the ''overlap-join'' value to the [[#inset|rule-inset]] properties.
-			(<a href="https://github.com/w3c/csswg-drafts/issues/13137">Issue 13137</a>)
 		<li>Updated edge and interior insets to be cap and junction insets.
 			(<a href="https://github.com/w3c/csswg-drafts/issues/13697">Issue 13697</a>)
+		<li>Added the ''overlap-join'' value to the [[#inset|rule-inset]] properties.
+			(<a href="https://github.com/w3c/csswg-drafts/issues/13137">Issue 13137</a>)
 	</ul>
 
 <h3 id="changes-20250417">
